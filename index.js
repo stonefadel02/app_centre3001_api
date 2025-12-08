@@ -19,3 +19,5 @@ app.use("/gestion_contact", Router)
 app.listen(process.env.PORT, () => {
     console.log("App is Running")
 })
+
+export default app;
