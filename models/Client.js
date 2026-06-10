@@ -21,7 +21,7 @@ firstName: {
   },
    remarque: {
     type: String,
-    required: true,
+    required: false,
   },
   postalCode: {
     type: String,
